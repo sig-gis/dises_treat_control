@@ -1,0 +1,10 @@
+geopandas
+pandas
+shapely
+rasterio
+numpy
+scipy
+matplotlib
+contextily
+rapidfuzz
+thefuzz
